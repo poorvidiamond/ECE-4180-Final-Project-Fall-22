@@ -1,4 +1,4 @@
-## My Role
+# My Role
 I was a project member for this team project (Fall 2022).
 
 Contributions:
@@ -10,8 +10,6 @@ Original repository:
 https://github.com/krishnamvs/ECE-4180-Final-Project-Fall-22
 
 # Developing a C++ based driver for ENS160 Sensor for mbed LPC1768
-
-**Team Members: Poorvi Bhaskar, Shreyaa Senthilnathan, Surya Senthilkumar Shanthi, Venkata Siva Krishna Madala**
 
 **Georgia Institute of Technology**
 
